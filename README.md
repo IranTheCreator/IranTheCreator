@@ -1,4 +1,4 @@
-## Olá! Eu sou a Iranildo Alves. Full Stack Dev, Gamer, e Hacker nas horas vagas...
+## Hello, I'm Iranidlo Alves, Multplatform and FullStack Dev
 <div align="center">
   <a href="https://github.com/IranTheCreator">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IranTheCreator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
